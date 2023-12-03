@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AR Setup.unity
     guid: 6759a96672dd7244cbe917903e5abb1c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ARImageTracking.unity
     guid: 07e43d2c35ac65e4da483e47b067f738
   - enabled: 1
