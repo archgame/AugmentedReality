@@ -8,9 +8,36 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AR Setup.unity
     guid: 6759a96672dd7244cbe917903e5abb1c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARImageTracking.unity
     guid: 07e43d2c35ac65e4da483e47b067f738
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_MingXi.unity
+    guid: d99aee17ccebfb042aa2de62744c66de
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Zach.unity
+    guid: ae249de246e582f418cd3f167b43d4a9
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Thea.unity
+    guid: 35999b1d4d60aa2468df6326aa714997
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Garo.unity
+    guid: 18ac1d2765ebfda42b9808d501ab331d
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Blane.unity
+    guid: 6a5aa3cee804a6f47a63ac2b0d59e14d
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Jieun.unity
+    guid: 49ea6247fdc28b445be473e459530686
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Mei.unity
+    guid: 1c76fc6605ec70349887ebd57a2f2e90
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Yifei.unity
+    guid: d6597e9277eb9d74190f4bdde2e0da9d
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking_Flo.unity
+    guid: 35e9a4d8b29576545a4f623d71e67420
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4862d25102c8c834a803c798ccf05a73, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9d79c3493935fa241bbd3592f57ccd97, type: 2}
